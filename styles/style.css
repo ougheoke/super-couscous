@@ -1,0 +1,17 @@
+#output Div{
+  display: none;
+}
+
+hr {
+    position: relative;
+    top: 20px;
+    background-color: black;
+    border: none;
+    margin-bottom: 50px;
+    }
+
+body {
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  background-color: #FFF8E1;
+}
